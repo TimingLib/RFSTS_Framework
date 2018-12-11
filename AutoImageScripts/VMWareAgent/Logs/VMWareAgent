@@ -1,0 +1,4 @@
+2018-08-13 11:13:49,233:INFO :VMWareAgent.py:get_srv_info_by_name:T7620:L187  :Server<RFSTS_VM> is not registed in the VMWareImageServer table
+2018-08-13 11:14:58,368:INFO :VMWareAgent.py:get_srv_info_by_name:T4648:L187  :Server<RFSTS_VM> is not registed in the VMWareImageServer table
+2018-08-13 15:50:37,299:INFO :VMWareAgent.py:get_srv_info_by_name:T9292:L187  :Server<RFSTS_VM> is not registed in the VMWareImageServer table
+2018-08-14 15:03:35,369:INFO :VMWareAgent.py:get_srv_info_by_name:T9104:L187  :Server<RFSTS_VM> is not registed in the VMWareImageServer table
